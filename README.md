@@ -1,2 +1,2 @@
 # bookbot
-python book analyzer
+BookBot is my first project!
